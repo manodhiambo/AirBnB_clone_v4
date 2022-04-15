@@ -1,3 +1,48 @@
+<center><h1>0x05. AirBnB clone - RESTful API</h1></center>
+
+<h2>Concepts</h2>
+For this project, students are expected to look at these concepts:
+<ul>
+<li><a href="https://alx-intranet.hbtn.io/concepts/45">REST API</a></li>
+<li><a href="https://alx-intranet.hbtn.io/concepts/74">AirBnB clone</a></li>
+
+<h2>Resources</h2>
+
+<p><b>Read or watch:</b></p>
+
+<ul>
+<li>REST API concept page</li>
+<li><a href="https://alx-intranet.hbtn.io/rltoken/rycjU2GvZAlahHa61WWDBg">Learn REST: A RESTful Tutorial</a></li>
+<li><a href="https://alx-intranet.hbtn.io/rltoken/WfKwKtaROCybta0_E849AQ">Designing a RESTful API with Python and Flask</a></li>
+<li><a href="https://alx-intranet.hbtn.io/rltoken/D55IFF8lgZDLPyIX6b6C5A">HTTP access control (CORS)</a></li>
+<li><a href="https://alx-intranet.hbtn.io/rltoken/L01qANfgx0al8_an4mtPuw">Flask cheatsheet</a></li>
+<li><a href="https://alx-intranet.hbtn.io/rltoken/QxbV8TCzNl3oP9br8CV5Lw">What are Flask Blueprints, exactly?</a></li>
+<li><a href="https://alx-intranet.hbtn.io/rltoken/OLWDl7iDVpWKykekaznWpQ">Flask</a></li>
+<li><a href="https://alx-intranet.hbtn.io/rltoken/y3Lhj6w1g59MA_HPtc578w">Modular Applications with Blueprints</a></li>
+<li><a href="https://alx-intranet.hbtn.io/rltoken/UGo4ArPFHhx-ow2QtZWILA">Flask tests</a></li>
+<li><a href="https://alx-intranet.hbtn.io/rltoken/vq8ER3xb99-N2anC-zke3A">Flask-CORS</a></li>
+<li><a href="https://alx-intranet.hbtn.io/rltoken/ri_5_y_TwNGI2gOHW_CaVg">AirBnB clone - RESTful API</a></li>
+</ul>
+
+<h3>Learning Objectives</h3>
+
+<p>At the end of this project, you are expected to be able to <a href="https://alx-intranet.hbtn.io/rltoken/5ySNbjsNA0dTL8YhhgtFog">explain to anyone</a>, <b>without the help of Google:</b></p>
+
+<h3>General</h3>
+
+<ul>
+<li>What REST means</li>
+<li>What API means</li>
+<li>What CORS means</li>
+<li>What is an API</li>
+<li>What is a REST API</li>
+<li>What are other type of APIs</li>
+<li>Which is the HTTP method to retrieve resource(s)</li>
+<li>Which is the HTTP method to create a resource</li>
+<li>Which is the HTTP method to update resource</li>
+<li>Which is the HTTP method to delete resource</li>
+<li>How to request REST API</li>
+</ul>
 # AirBnB Clone - The Console
 The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
 
@@ -154,8 +199,7 @@ EOF  all  create  destroy  help  quit  show  update
 No known bugs at this time. 
 
 ## Authors
-Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
-Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
+Kevin Owino Odhiambo - [github.com/manodhiambo]
 
 Second part of Airbnb: Joann Vuong
 ## License
