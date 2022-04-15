@@ -43,6 +43,8 @@ For this project, students are expected to look at these concepts:
 <li>Which is the HTTP method to delete resource</li>
 <li>How to request REST API</li>
 </ul>
+
+
 # AirBnB Clone - The Console
 The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
 
