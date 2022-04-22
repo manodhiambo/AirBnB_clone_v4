@@ -203,6 +203,5 @@ No known bugs at this time.
 ## Authors
 Kevin Owino Odhiambo - [github.com/manodhiambo]
 
-Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
